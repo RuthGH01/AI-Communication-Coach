@@ -207,6 +207,10 @@ Open the `frontend/index.html` file using the VS Code Live Server extension or a
 
 ---
 
+## Website Preview
+
+![AI Communication Coach Homepage](webpage.jpg)
+
 ## 🚀 Future Enhancements
 
 - Integrate an emotion recognition model for speech analysis.
